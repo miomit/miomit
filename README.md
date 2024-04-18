@@ -1,5 +1,3 @@
-<img src="./img/88cb6cc.gif?raw=true" width="100%">
-
 ```dart
 var myProfile = GitHubProfile(
   userName: 'miomit',
