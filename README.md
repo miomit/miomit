@@ -7,9 +7,10 @@ var myProfile = GitHubProfile(
     'go',
     'c#',
     'c',
-    'c++',
-    'rust',
     'js',
+    'c++',
+    'java',
+    'rust',
   ],
   socialMedia: {
     'Mastodon': 'https://mastodon.world/@miomit',
