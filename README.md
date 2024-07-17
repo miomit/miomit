@@ -17,5 +17,6 @@ var myProfile = GitHubProfile(
   },
 );
 ```
-
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual Studio Code-213c60?style=flat&logo=visualstudiocode"/></a>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
