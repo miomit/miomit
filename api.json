@@ -205,6 +205,14 @@
       "links": ["https://gist.github.com/miomit/9f4be3152f11612c65b2a70ff406e28b"]
     },
     {
+      "title": "Animekai Subtitle Extractor",
+      "date": "2025-12-13",
+      "category": "Frontend",
+      "description": "A browser extension that downloads subtitles directly from AnimeKai.",
+      "tech": ["JavaScript", "Chrome Api"],
+      "links": ["https://github.com/miomit/animekai-subtitle-extractor"]
+    },
+    {
       "title": "TSQL",
       "date": {
         "from": "2024-04",
